@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE/editor config
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Environment files
+.env
